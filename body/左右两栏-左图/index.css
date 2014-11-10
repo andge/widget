@@ -1,0 +1,25 @@
+.two_column {
+  display: -webkit-box;
+  overflow: hidden;
+  position: relative;
+  margin:11px 8px 0;
+}
+.two_column_img {
+    /* margin-top:4px; */
+    width: 86px;
+    height: 60px;
+	overflow:hidden;
+	border:1px solid #f6f6f6;
+	display: -webkit-box;
+	-webkit-box-align:center;
+	-webkit-box-pack:center;
+}
+
+.two_column_content {
+  overflow: hidden;
+  font-size: 17px;
+  line-height:20px;
+  -webkit-box-flex:1;
+  margin-left: 12px;
+}
+
