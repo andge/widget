@@ -4,7 +4,8 @@
     width: 100%;
     -webkit-box-sizing: border-box
 }
-
+.nav-list{
+}
 .nav-item {
     display: table-cell;
     text-align: center;
